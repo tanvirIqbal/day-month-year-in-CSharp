@@ -1,0 +1,13 @@
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\bin\Debug\netcoreapp3.1\DayMonthYear.exe
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\bin\Debug\netcoreapp3.1\DayMonthYear.deps.json
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\bin\Debug\netcoreapp3.1\DayMonthYear.runtimeconfig.json
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\bin\Debug\netcoreapp3.1\DayMonthYear.runtimeconfig.dev.json
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\bin\Debug\netcoreapp3.1\DayMonthYear.dll
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\bin\Debug\netcoreapp3.1\DayMonthYear.pdb
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\obj\Debug\netcoreapp3.1\DayMonthYear.csprojAssemblyReference.cache
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\obj\Debug\netcoreapp3.1\DayMonthYear.AssemblyInfoInputs.cache
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\obj\Debug\netcoreapp3.1\DayMonthYear.AssemblyInfo.cs
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\obj\Debug\netcoreapp3.1\DayMonthYear.csproj.CoreCompileInputs.cache
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\obj\Debug\netcoreapp3.1\DayMonthYear.dll
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\obj\Debug\netcoreapp3.1\DayMonthYear.pdb
+E:\Learning\GitHub\day-month-year-in-CSharp\DayMonthYear\DayMonthYear\obj\Debug\netcoreapp3.1\DayMonthYear.genruntimeconfig.cache
